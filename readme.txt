@@ -22,3 +22,8 @@ Rendering Backends
 
 
 
+NEW (2025): 
+	TORN has been renamed to EPOXY; The major difference now is that all TORN_ functions have been renamed to EPOXY_.
+	
+	
+
